@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nadavox
 - 👀 I’m interested in game development, python, math. 
-- 🌱 I’m currently learning unity and computer science
+- 🌱 I’m currently a Student at Bar Ilan University!
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me discord:nadavox#0270
+- 📫 How to reach me email: nadavoxenberg@gmail.com
 
 <!---
 nadavox/nadavox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
