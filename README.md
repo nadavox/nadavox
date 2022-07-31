@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nadavox
-- 👀 I’m interested in game development, python, math. 
+- 👋 Hi, I’m @nadav_Oxenberg
+- 👀 I’m interested in game development, python, math, AI. 
 - 🌱 I’m currently a Student at Bar Ilan University!
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email: nadavoxenberg@gmail.com
 
 <!---
