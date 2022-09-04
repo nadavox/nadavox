@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nadav_Oxenberg
 - 👀 I’m interested in game development, python, math, AI. 
 - 🌱 I’m currently a Student at Bar Ilan University!
+- my Linkedin: https://www.linkedin.com/in/nadav-oxenberg-65604924b/
 - 📫 How to reach me email: nadavoxenberg@gmail.com
 
 <!---
